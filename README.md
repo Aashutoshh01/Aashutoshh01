@@ -1,6 +1,9 @@
 ##                     Hi there👋, this is Aashutosh
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 ![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
+
+
+https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white
 <!--
 **Aashutoshh01/Aashutoshh01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
