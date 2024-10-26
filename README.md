@@ -1,7 +1,6 @@
 ##                     Hi there👋, this is Aashutosh
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 ![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
-![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS)
 <!--
 **Aashutoshh01/Aashutoshh01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
