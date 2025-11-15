@@ -22,7 +22,6 @@
 
 
 ## 🧠 My Focus Areas
-- Web Development
 - AI/ML Research
 - Transformer Architectures
 - Small & Large Language Models (SLMs/LLMs)
