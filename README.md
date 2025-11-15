@@ -15,8 +15,7 @@
 - 🔍 I work on scalable agentic AI systems, distributed training setups, and multimodal model design.
 - 🚀 I build models from scratch, GPT style LLMs, SLMs, ViTs, and multi-agent systems, and design full training and evaluation workflows.
 - 🧠 I research SAR processing, complex-valued neural networks, and efficient adaptation methods such as LoRA and CV-LoRA.
-- 💬 Ask me about transformers, PyTorch, AutoGen, RAG systems, model optimization, quantization, or H100-class GPU training.
-- ⚡ I love creating end-to-end AI systems, from dataset pipelines to inference, deployment, and interactive UIs.
+- 💬 Ask me about transformers, PyTorch, AutoGen, RAG systems, model optimization, quantization, or H100-class GPU training. ⚡ I love creating end-to-end AI systems, from dataset pipelines to inference, deployment, and interactive UIs.
 
 
 ## 🧠 My Focus Areas
