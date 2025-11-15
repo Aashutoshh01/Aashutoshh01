@@ -8,6 +8,8 @@
 </p>
 
 <!-- <img src="https://i.pinimg.com/originals/62/12/48/6212485181ca055f760855d98d3ee4bc.gif" alt="Banner" width="100%" /> -->
+<img src="https://raw.githubusercontent.com/Aashutoshh01/Aashutoshh01/main/banner.gif" alt="Banner" width="100%" />
+
 
 ## 📌 About Me
 - 🌱 I learn and build across advanced AI/ML systems, transformer architectures, small language models, and complex-valued deep learning.
