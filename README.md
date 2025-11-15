@@ -24,15 +24,15 @@
 - AI/ML Research
 - Transformer Architectures
 - Small & Large Language Models (SLMs/LLMs)
-• Complex-Valued Deep Learning
-• LLM Pretraining & Fine-tuning
-• Agentic AI Systems (AutoGen)
-• Retrieval-Augmented Generation (RAG)
-• Open-Source Contribution
-• Model Optimization & Quantization
-• Vision Models (ViT, CNNs)
-• Time-Series Modeling
-• Multi-Agent Automation Systems
+- Complex-Valued Deep Learning
+- LLM Pretraining & Fine-tuning
+- Agentic AI Systems (AutoGen)
+- Retrieval-Augmented Generation (RAG)
+- Open-Source Contribution
+- Model Optimization & Quantization
+- Vision Models (ViT, CNNs)
+- Time-Series Modeling
+- Multi-Agent Automation Systems
 
 
 ## 📊 GitHub Stats & Trophies
