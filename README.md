@@ -27,7 +27,7 @@
 - Small & Large Language Models (SLMs/LLMs)
 - Complex-Valued Deep Learning
 - LLM Pretraining & Fine-tuning
-- Agentic AI Systems (langGraph & AutoGen)
+- Agentic AI Systems (LangGraph & AutoGen)
 - Retrieval-Augmented Generation (RAG)
 - Open-Source Contribution
 - Model Optimization & Quantization
